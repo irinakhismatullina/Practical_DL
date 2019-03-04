@@ -23,6 +23,7 @@
 
 
 ## Practice
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
 
